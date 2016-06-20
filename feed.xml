@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Musings on Software vs. People II</title>
+    <title>Musings on Software vs. People</title>
     <description>Exploring how people interact with computers and the ways it needs improvement, as well as occasional ramblings on things I&#39;m working with or on.
 </description>
     <link>http://ceph3.us/</link>
     <atom:link href="http://ceph3.us/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Jun 2016 05:12:16 +0100</pubDate>
-    <lastBuildDate>Mon, 20 Jun 2016 05:12:16 +0100</lastBuildDate>
+    <pubDate>Mon, 20 Jun 2016 05:13:47 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Jun 2016 05:13:47 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
   </channel>
